@@ -10,26 +10,6 @@ image:
   focal_point: Smart
 
 featured: true
-
-gallery_item:
-  - album: photometric-stereo
-    image: albedoIm.png
-    caption: Albedo Image, visualized with colormap 'gray'
-  - album: photometric-stereo
-    image: normalIm.png
-    caption: Normal Image, visualized with colormap 'rainbow'
-  - album: photometric-stereo
-    image: depthmapuncalibone.png
-    caption: Depthmap View 1, visualized with Axes3D object in Matplotlib
-  - album: photometric-stereo
-    image: depthmapuncalibtwo.png
-    caption: Depthmap View 2, visualized with Axes3D object in Matplotlib
-  - album: photometric-stereo
-    image: depthmapuncalibthree.png
-    caption: Depthmap View 3, visualized with Axes3D object in Matplotlib
-  - album: photometric-stereo
-    image: depthmapuncalibfour.png
-    caption: Depthmap View 4, visualized with Axes3D object in Matplotlib
 ---
 
 #### What we did
@@ -38,14 +18,26 @@ gallery_item:
 
 <br>
 
-### Image gallery
-{{< gallery album="photometric-stereo" >}}
+### Image Gallery
+
+| Albedo Image | Normal Image |
+|:---:|:---:|
+| ![Albedo Image](albedoIm.png) | ![Normal Image](normalIm.png) |
+
+| Depthmap View 1 | Depthmap View 2 |
+|:---:|:---:|
+| ![Depthmap View 1](depthmapuncalibone.png) | ![Depthmap View 2](depthmapuncalibtwo.png) |
+
+| Depthmap View 3 | Depthmap View 4 |
+|:---:|:---:|
+| ![Depthmap View 3](depthmapuncalibthree.png) | ![Depthmap View 4](depthmapuncalibfour.png) |
 
 <br>
 <br>
 
 #### Rendering n-dot-l lighting for a uniform fully reflective Lambertian sphere
-{{< figure src="ndotl.png" title="Rendered images for 3 different light sources" >}}  
+
+![Rendered images for 3 different light sources](ndotl.png)
 
 <br>
 <br>

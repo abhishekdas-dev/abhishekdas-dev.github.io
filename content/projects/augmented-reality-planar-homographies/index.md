@@ -21,17 +21,27 @@ featured: true
 ## Creating a real-time Augmented Reality Application
 
 > Rendering video on a moving target
-{{< video src="ar_c.mp4" controls="yes" >}}
+
+<video controls width="100%">
+  <source src="ar_c.mp4" type="video/mp4">
+</video>
 
 I have tracked the book in each frame in the target video and overlayed each frame of the source video onto the book in the target video.   
 <br>
+
 > Source video
-{{< video src="ar_source_c.mp4" controls="yes" >}}    
+
+<video controls width="100%">
+  <source src="ar_source_c.mp4" type="video/mp4">
+</video>
 
 <br>
 
 > Target video
-{{< video src="book_c.mp4" controls="yes" >}}    
+
+<video controls width="100%">
+  <source src="book_c.mp4" type="video/mp4">
+</video>
 
 <br>
 <br>
