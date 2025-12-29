@@ -2,115 +2,142 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Abhishek Das
+  given: Abhishek
+  family: Das
+  alternate: ''
+  pronunciation: ''
   pronouns: he/him
 postnominals:
-  - PhD
-  - MIEEE
+  - M.S.
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🚀"
+role: Senior Applied Scientist at Microsoft
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I am passionate about designing projects that could effectively solve global real-time issues, 
+  and create amazing innovations that could serve mankind to make its life easier and more fulfilling. 
+  My Research interest lies in the Multimodal aspect of Machine Learning, where we integrate knowledge 
+  from Vision, Language and Speech modalities.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Microsoft
+    url: https://www.microsoft.com/
+  - name: Carnegie Mellon University
+    url: https://www.ece.cmu.edu/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: '/#contact'
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/example
+    url: https://twitter.com/imad0697
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/Abhishek0697
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+    url: https://www.linkedin.com/in/abhishek-deepak-das/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://scholar.google.com/citations?user=e3bDokMAAAAJ&hl=en
+  - icon: brands/medium
+    url: https://medium.com/@iamabhishekdas
 
 interests:
-  - Large Language Models
+  - Deep Learning
+  - Natural Language Processing
   - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Machine Learning
+  - Internet of Things
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
+  - degree: M.S. in Electrical and Computer Engineering
     institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+    start: 2019-08-01
+    end: 2020-12-31
+    summary: |
+      Focus on Machine Learning, Computer Vision, and Signal Processing.
+  - degree: B.Eng. in Electronics and Telecommunication Engineering
+    institution: University of Mumbai
+    start: 2015-06-01
+    end: 2019-05-31
+    summary: |
+      Graduated with First Class with Distinction.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Senior Applied Scientist
+    org: Microsoft
+    start: 2024-01-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Working on cutting-edge AI/ML solutions at Microsoft.
+  - role: Applied Scientist 2
+    org: Microsoft
+    start: 2021-01-01
+    end: 2023-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Developed machine learning models and solutions for Microsoft products.
+  - role: Graduate Research Assistant
+    org: CyLab Security and Privacy Institute, Carnegie Mellon University
+    start: 2020-08-17
+    end: 2020-12-23
+    summary: |
+      - Designing Neural Networks for Fine-Grain Retail Product Image Classification
+      - Implemented latest research techniques to optimize model performance
+  - role: Summer Research Intern
+    org: CyLab Security and Privacy Institute, Carnegie Mellon University
+    start: 2020-05-18
+    end: 2020-08-15
+    summary: |
+      - Developed a pipeline for Plugs detection for Inventory management in Retail Stores
+      - Worked with Long Tail distributions
+      - Analysis and cleaning of large noisy image datasets
+  - role: Graduate Research Assistant
+    org: AiPEX Lab, Carnegie Mellon University
+    start: 2019-11-04
+    end: 2020-05-01
+    summary: |
+      Training a Deepfake video detection architecture using CNN and Pulse rate estimation
 
 skills:
-  - name: Technical Skills
+  - name: Programming & ML
     items:
       - label: Python
         level: 5
-      - label: Machine Learning
+      - label: PyTorch
         level: 5
-      - label: Cloud Computing
+      - label: TensorFlow/Keras
         level: 4
-  - name: Research & Communication
+      - label: scikit-learn
+        level: 5
+  - name: Tools & Platforms
     items:
-      - label: Academic Writing
+      - label: MATLAB
         level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
+      - label: Jupyter
+        level: 5
+      - label: AWS
+        level: 3
+      - label: Arduino
         level: 4
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
+  - name: Hindi
+    level: 5
+    label: Native
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: Machine Learning A-Z Certification
+    awarder: Udemy
+    date: "2019-04-01"
+    summary: Hands-On Python & R In Data Science
+    icon: hero/academic-cap
+  - title: Deep Learning A-Z Certification
+    awarder: Udemy
+    date: "2018-10-01"
+    summary: Hands-On Artificial Neural Networks
+    icon: hero/academic-cap
+  - title: Machine Learning
+    awarder: Coursera (Stanford)
+    date: "2018-08-01"
+    summary: Andrew Ng's Machine Learning Course
+    icon: hero/academic-cap
