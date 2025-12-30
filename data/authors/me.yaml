@@ -14,10 +14,9 @@ status:
   icon: "🚀"
 role: Senior Applied Scientist at Microsoft
 bio: |
-  I am passionate about designing projects that could effectively solve global real-time issues, 
-  and create amazing innovations that could serve mankind to make its life easier and more fulfilling. 
-  My Research interest lies in the Multimodal aspect of Machine Learning, where we integrate knowledge 
-  from Vision, Language and Speech modalities.
+  I am passionate about solving challenging problems and creating innovations that could serve mankind to make its life easier and more fulfilling. My research interest centers on the multimodal aspects of Machine Learning, where I explore the intersection of vision and language to push the boundaries of neural network capabilities and their real-world impact.
+  
+  Currently, I am developing state-of-the-art Query Recommendations Systems for Microsoft Bing Image Search.
 
 affiliations:
   - name: Microsoft
@@ -64,15 +63,30 @@ education:
 experience:
   - role: Senior Applied Scientist
     org: Microsoft
-    start: 2024-01-01
+    location: Redmond, Washington, United States
+    start: 2025-09-01
     summary: |
-      Working on cutting-edge AI/ML solutions at Microsoft.
+      - Designed and productionized an ultra–low-latency vision–language model (VLM) powering multimodal autosuggest in Bing Visual Search, achieving sub-100 ms p95 latency through layer pruning and inference optimizations.
+      - Lead technical direction for new multimodal and recommendation features across Bing Visual Search and Related Searches, partnering with engineering and product to align model capabilities with business goals.
   - role: Applied Scientist 2
     org: Microsoft
-    start: 2021-01-01
-    end: 2023-12-31
+    location: Redmond, Washington, United States
+    start: 2022-09-01
+    end: 2025-09-01
     summary: |
-      Developed machine learning models and solutions for Microsoft products.
+      - Modernized the Related Searches recommendation stack across SERP and Image verticals with deep-learning–based recall and ranking, contributing to 10%+ higher clicks and up to 50% broader coverage, and enabling finer traffic shaping and faster experimentation.
+      - Innovated and experimented with various SLM Finetuning techniques including Pruning, DPO etc. Fine-tuned and deployed customized student transformer models for web-scale inference, efficiently processing several billion queries on a regular basis.
+      - Conducted research on prompt engineering best-practices, and synthetic data distillation using LLMs from GPT4 family.
+      - Developed and launched the first prompt-safety neural network for Bing Image Creator (DALLE 3), significantly reducing over-blocking and harmful content leakage while preserving user experience and creative freedom for millions of users.
+      - Collaborated with Responsible AI, policy, and product stakeholders to identify potential misuse of generative images and establish high-quality measurement sets and fine-grained guidelines for sensitive categories.
+  - role: Applied Scientist
+    org: Microsoft
+    location: Redmond, Washington, United States
+    start: 2021-08-01
+    end: 2022-08-01
+    summary: |
+      - Generated actionable insights from user sessions to identify user frustrations and ship features to improve search experience.
+      - Conducted opportunity analysis for ads revenue growth and monetization.
   - role: Graduate Research Assistant
     org: CyLab Security and Privacy Institute, Carnegie Mellon University
     start: 2020-08-17
