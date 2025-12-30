@@ -63,6 +63,7 @@ education:
 experience:
   - role: Senior Applied Scientist
     org: Microsoft
+    icon: orgs/microsoft
     location: Redmond, Washington, United States
     start: 2025-09-01
     summary: |
@@ -70,6 +71,7 @@ experience:
       - Lead technical direction for new multimodal and recommendation features across Bing Visual Search and Related Searches, partnering with engineering and product to align model capabilities with business goals.
   - role: Applied Scientist 2
     org: Microsoft
+    icon: orgs/microsoft
     location: Redmond, Washington, United States
     start: 2022-09-01
     end: 2025-09-01
@@ -81,6 +83,7 @@ experience:
       - Collaborated with Responsible AI, policy, and product stakeholders to identify potential misuse of generative images and establish high-quality measurement sets and fine-grained guidelines for sensitive categories.
   - role: Applied Scientist
     org: Microsoft
+    icon: orgs/microsoft
     location: Redmond, Washington, United States
     start: 2021-08-01
     end: 2022-08-01
