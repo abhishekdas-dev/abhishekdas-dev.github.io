@@ -1,0 +1,14 @@
+/* Custom styles for organization logos in education/experience sections */
+
+/* Make icons larger in the resume/bio timeline */
+.li-icon svg {
+  width: 2.5rem !important;
+  height: 2.5rem !important;
+}
+
+/* Also increase size for experience icons specifically */
+.resume-experience .li-icon svg,
+.resume-education .li-icon svg {
+  width: 3rem !important;
+  height: 3rem !important;
+}

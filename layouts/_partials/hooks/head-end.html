@@ -1,0 +1,28 @@
+<!-- Custom CSS for larger organization logos -->
+<style>
+/* Make icons larger in the resume/bio timeline */
+.hb-li-icon svg {
+  width: 2.5rem !important;
+  height: 2.5rem !important;
+}
+
+/* Target the timeline icon containers specifically */
+[class*="experience"] .hb-li-icon svg,
+[class*="education"] .hb-li-icon svg {
+  width: 3rem !important;
+  height: 3rem !important;
+}
+
+/* Alternative selector for resume sections */
+.resume-experience svg,
+.resume-education svg {
+  width: 3rem !important;
+  height: 3rem !important;
+}
+
+/* General icon size increase in timeline */
+.flex.items-start svg {
+  min-width: 2.5rem;
+  min-height: 2.5rem;
+}
+</style>
