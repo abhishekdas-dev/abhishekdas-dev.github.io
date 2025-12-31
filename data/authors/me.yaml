@@ -95,20 +95,16 @@ experience:
   - role: Graduate Research Assistant
     org: CyLab Security and Privacy Institute, Carnegie Mellon University
     icon: orgs/cmu
-    start: 2020-08-17
+    start: 2020-05-18
     end: 2020-12-23
     summary: |
-      - Designing Neural Networks for Fine-Grain Retail Product Image Classification
-      - Implemented latest research techniques to optimize model performance
-  - role: Summer Research Intern
-    org: CyLab Security and Privacy Institute, Carnegie Mellon University
-    icon: orgs/cmu
-    start: 2020-05-18
-    end: 2020-08-15
-    summary: |
-      - Developed a pipeline for Plugs detection for Inventory management in Retail Stores
-      - Worked with Long Tail distributions
-      - Analysis and cleaning of large noisy image datasets
+      Advisor - Prof. Marios Savvides
+      - Designed robust Fine-Grain neural network models for Retail Product Image classification task, Plugs and Out-of-stocks Detection
+      - Read and implemented latest research techniques in the field to optimize the model performance
+      - Working with Long Tail distributions
+      - Analyzed and cleaned large noisy real world image datasets
+      
+      This work culminated to a patent for innovative contributions to the field.
   - role: Graduate Research Assistant
     org: AiPEX Lab, Carnegie Mellon University
     icon: orgs/cmu
