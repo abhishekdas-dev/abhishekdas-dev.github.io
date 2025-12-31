@@ -1,0 +1,39 @@
+# Page sharer configuration
+# Only enable the share buttons you want to display
+
+[[links]]
+  enable = true
+  id = "twitter"
+  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  title = "X"
+  icon = "brands/x"
+
+[[links]]
+  enable = false
+  id = "facebook"
+  url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
+  title = "Facebook"
+  icon_pack = "fab"
+  icon = "brands/facebook"
+
+[[links]]
+  enable = true
+  id = "email"
+  url = "mailto:?subject={title}&body={url}"
+  title = "Email"
+  icon = "hero/envelope"
+
+[[links]]
+  enable = true
+  id = "linkedin"
+  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+  title = "LinkedIn"
+  icon = "brands/linkedin"
+
+[[links]]
+  enable = false
+  id = "whatsapp"
+  url = "whatsapp://send?text={title}%20{url}"
+  title = "WhatsApp"
+  icon_pack = "fab"
+  icon = "brands/whatsapp"
