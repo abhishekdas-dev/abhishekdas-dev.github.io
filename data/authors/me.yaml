@@ -49,6 +49,7 @@ interests:
 education:
   - degree: M.S. in Electrical and Computer Engineering
     institution: Carnegie Mellon University
+    icon: orgs/cmu
     start: 2019-08-01
     end: 2020-12-31
     summary: |
@@ -92,6 +93,7 @@ experience:
       - Conducted opportunity analysis for ads revenue growth and monetization.
   - role: Graduate Research Assistant
     org: CyLab Security and Privacy Institute, Carnegie Mellon University
+    icon: orgs/cmu
     start: 2020-08-17
     end: 2020-12-23
     summary: |
@@ -99,6 +101,7 @@ experience:
       - Implemented latest research techniques to optimize model performance
   - role: Summer Research Intern
     org: CyLab Security and Privacy Institute, Carnegie Mellon University
+    icon: orgs/cmu
     start: 2020-05-18
     end: 2020-08-15
     summary: |
@@ -107,6 +110,7 @@ experience:
       - Analysis and cleaning of large noisy image datasets
   - role: Graduate Research Assistant
     org: AiPEX Lab, Carnegie Mellon University
+    icon: orgs/cmu
     start: 2019-11-04
     end: 2020-05-01
     summary: |
