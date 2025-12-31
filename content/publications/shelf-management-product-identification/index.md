@@ -50,9 +50,6 @@ links:
   - type: url
     name: Google Patents
     url: https://patents.google.com/patent/US20220051179A1/en
-  - type: url
-    name: USPTO
-    url: https://patentcenter.uspto.gov/applications/17506115
 
 # Featured image
 image:
