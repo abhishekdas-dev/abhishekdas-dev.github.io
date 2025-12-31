@@ -7,12 +7,12 @@ name:
   family: Das
   alternate: ''
   pronunciation: ''
-  pronouns: he/him
+  pronouns: ''
 postnominals:
   - M.S.
 status:
   icon: "🚀"
-role: Senior Applied Scientist at Microsoft
+role: Senior Applied Scientist
 bio: |
   I am passionate about solving challenging problems and creating innovations that could serve mankind to make its life easier and more fulfilling. My research interest centers on the multimodal aspects of Machine Learning, where I explore the intersection of vision and language to push the boundaries of neural network capabilities and their real-world impact.
   
@@ -26,7 +26,7 @@ affiliations:
 
 links:
   - icon: at-symbol
-    url: '/#contact'
+    url: 'mailto:abhishekdas@microsoft.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/imad0697
