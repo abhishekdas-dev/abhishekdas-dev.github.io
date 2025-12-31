@@ -157,6 +157,12 @@ languages:
     label: Native
 
 awards:
+  - title: December 2024 MLADS+RAI Conference Proposal Reviewer
+    awarder: Microsoft Machine Learning, AI & Data Science Conference (MLADS)
+    date: "2024-12-05"
+    summary: Recognized for providing expert feedback on technical conference proposals in AI, ML, and Data Science.
+    url: https://www.credly.com/badges/287c4822-95cd-4dae-abd9-b08375cd43f4
+    icon: hero/trophy
   - title: Machine Learning A-Z Certification
     awarder: Udemy
     date: "2019-04-01"
