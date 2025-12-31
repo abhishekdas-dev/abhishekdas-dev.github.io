@@ -53,13 +53,26 @@ education:
     start: 2019-08-01
     end: 2020-12-31
     summary: |
-      Focus on Machine Learning, Computer Vision, and Signal Processing.
+      Specialization - Machine Learning
+      
+      Coursework:
+      - 10-601: Introduction to Machine Learning
+      - 11-777: Multimodal Machine Learning
+      - 11-751: Speech Recognition and Understanding
+      - 11-755: Machine Learning for Signal Processing
+      - 11-785: Introduction to Deep Learning
+      - 16-720: Computer Vision
+      - 18-739: Security and Fairness of Deep Learning
+      - 18-785: Data, Inference and Applied Machine Learning
+      - 18-797: Pattern Recognition Theory
   - degree: B.Eng. in Electronics and Telecommunication Engineering
     institution: University of Mumbai
     icon: orgs/mumbai
     start: 2015-06-01
     end: 2019-05-31
     summary: |
+      Specialization - Signal and Image Processing
+      
       Graduated with First Class with Distinction.
 
 experience:
@@ -111,6 +124,8 @@ experience:
     start: 2019-11-04
     end: 2020-05-01
     summary: |
+      Advisor - Prof. Conrad Tucker
+      
       Training a Deepfake video detection architecture using CNN and Pulse rate estimation
 
 skills:
