@@ -157,6 +157,12 @@ languages:
     label: Native
 
 awards:
+  - title: Project Featured in Maharashtra Times for Creativity and Innovation
+    awarder: Maharashtra Times
+    date: "2018-04-01"
+    summary: Our project, Smart Refrigerator, was honored by Maharashtra Times (a popular Marathi-language daily newspaper) for its innovative application of IoT technology. Designed to simplify household tasks, it offers features like real-time inventory tracking, mobile alerts for restocking, and recipe suggestions. This recognition at the 'DJ Spark' fest highlights the potential of our work to transform how homes interact with technology.
+    url: https://maharashtratimes.com/lifestyle-news/home-decor-hacks/aflatin/articleshow/63844223.cms
+    icon: hero/newspaper
   - title: December 2024 MLADS+RAI Conference Proposal Reviewer
     awarder: Microsoft Machine Learning, AI & Data Science Conference (MLADS)
     date: "2024-12-05"
