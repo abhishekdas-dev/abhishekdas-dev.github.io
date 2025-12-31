@@ -38,4 +38,14 @@ a[title*="WhatsApp"],
 [class*="whatsapp"] {
   display: none !important;
 }
+
+/* Hide Professional Summary heading */
+h2:has(+ .prose),
+.biography-text > h2:first-child,
+section h2:contains("Professional Summary"),
+h2.text-2xl:contains("Professional"),
+.resume-biography h2,
+[data-heading="bio"] {
+  display: none !important;
+}
 </style>
