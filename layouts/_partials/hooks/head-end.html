@@ -25,4 +25,17 @@
   min-width: 2.5rem;
   min-height: 2.5rem;
 }
+
+/* Hide Facebook and WhatsApp share buttons */
+a[href*="facebook.com/sharer"],
+a[href*="whatsapp://"],
+a[href*="wa.me"],
+a[title*="Facebook"],
+a[title*="WhatsApp"],
+.share-facebook,
+.share-whatsapp,
+[class*="facebook"],
+[class*="whatsapp"] {
+  display: none !important;
+}
 </style>
