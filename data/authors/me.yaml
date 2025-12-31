@@ -28,14 +28,14 @@ links:
   - icon: at-symbol
     url: 'mailto:abhishekdas@microsoft.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/imad0697
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=e3bDokMAAAAJ&hl=en
   - icon: brands/github
     url: https://github.com/Abhishek0697
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/abhishek-deepak-das/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=e3bDokMAAAAJ&hl=en
+  - icon: brands/x
+    url: https://twitter.com/imad0697
   - icon: brands/medium
     url: https://medium.com/@iamabhishekdas
 
