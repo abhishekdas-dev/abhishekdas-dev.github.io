@@ -7,17 +7,18 @@ authors:
   - Vivek Dhuri
   - Ranjushree Pal
 
-date: '2020-12-18T00:00:00Z'
+date: '2018-01-01T00:00:00Z'
+date_format: '2006'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2018-04-06T00:00:00Z'
+publishDate: '2018-01-01T00:00:00Z'
 
 # Publication type.
-publication_types: ['article']
+publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: ISBN 978-93-86724-75-5
-publication_short: B.Eng. Project
+publication: Proceedings of DJ Spark 2018. ISBN 978-93-86724-75-5
+publication_short: DJ Spark 2018
 
 abstract: A smart refrigerator system leveraging IoT technology to simplify household tasks. It offers features like real-time inventory tracking, mobile alerts for restocking, and recipe suggestions. The system uses embedded sensors and an Android application for seamless user interaction and monitoring.
 
