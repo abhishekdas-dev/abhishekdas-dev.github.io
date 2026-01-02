@@ -76,7 +76,12 @@ article .author-notes,
 section[class*="author"],
 .page-body > .container > div:last-child .flex.items-center,
 .publication-authors,
-.project-authors {
+.project-authors,
+.prose > div:has(a[href*="/authors/"]),
+article > div:has(a[href*="/authors/"]),
+.page-body div:has(> a[href*="/authors/"]),
+.prose div.flex:has(a[href*="/authors/"]),
+div.flex.flex-col:has(a[href*="/authors/"]) {
   display: none !important;
 }
 </style>
