@@ -53,4 +53,17 @@ h2:contains("Professional"),
 .font-semibold:contains("Professional Summary") {
   display: none !important;
 }
+
+/* Fix Mumbai University icon in dark mode */
+.dark img[src*="mumbai"],
+.dark svg[class*="mumbai"],
+.dark [class*="mumbai"] svg {
+  filter: invert(1) !important;
+}
+
+/* Invert black SVG icons in dark mode for education section */
+.dark .hb-li-icon svg path[fill="#000000"],
+.dark .hb-li-icon svg g[fill="#000000"] {
+  fill: #ffffff !important;
+}
 </style>

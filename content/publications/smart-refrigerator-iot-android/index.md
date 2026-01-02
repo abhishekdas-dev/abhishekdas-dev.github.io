@@ -4,17 +4,19 @@ title: 'Smart Refrigerator Using Internet of Things and Android'
 # Authors
 authors:
   - me
+  - Vivek Dhuri
+  - Ranjushree Pal
 
-date: '2018-04-01T00:00:00Z'
+date: '2020-12-18T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2018-04-01T00:00:00Z'
+publishDate: '2018-04-06T00:00:00Z'
 
 # Publication type.
 publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: B.Eng. Project Report, University of Mumbai
+publication: ISBN 978-93-86724-75-5
 publication_short: B.Eng. Project
 
 abstract: A smart refrigerator system leveraging IoT technology to simplify household tasks. It offers features like real-time inventory tracking, mobile alerts for restocking, and recipe suggestions. The system uses embedded sensors and an Android application for seamless user interaction and monitoring.

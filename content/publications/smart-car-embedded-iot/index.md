@@ -4,17 +4,21 @@ title: 'Smart Car Features Using Embedded Systems and IoT'
 # Authors
 authors:
   - me
+  - Vivek Dhuri
+  - Aditya Desai
+  - Suyash Ail
+  - Ameya Kadam
 
-date: '2019-05-01T00:00:00Z'
+date: '2021-01-02T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-01T00:00:00Z'
+publishDate: '2021-01-02T00:00:00Z'
 
 # Publication type.
 publication_types: ['article']
 
 # Publication name and optional abbreviated publication name.
-publication: B.Eng. Project Report, University of Mumbai
+publication: ISBN 978-93-5300-801-7
 publication_short: B.Eng. Project
 
 abstract: An IoT-based smart car system that integrates various embedded sensors and microcontrollers to provide intelligent features including obstacle detection, automatic headlight control, alcohol detection for driver safety, and remote monitoring capabilities through mobile applications.

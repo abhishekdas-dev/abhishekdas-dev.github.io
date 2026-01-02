@@ -4,11 +4,13 @@ title: 'Rain Sensing Automatic Car Wiper Using AT89C51 Microcontroller'
 # Authors
 authors:
   - me
+  - Vivek Dhuri
+  - Ranjushree Pal
 
-date: '2017-05-01T00:00:00Z'
+date: '2021-01-05T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-05-01T00:00:00Z'
+publishDate: '2021-01-05T00:00:00Z'
 
 # Publication type.
 publication_types: ['article']
