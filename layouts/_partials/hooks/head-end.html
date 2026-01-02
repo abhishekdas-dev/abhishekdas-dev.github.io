@@ -67,29 +67,15 @@ h2:contains("Professional"),
   fill: #ffffff !important;
 }
 
-/* Hide author descriptions at bottom of publication and project pages */
+/* Hide author profile cards at bottom of publication and project pages - NOT the byline at top */
 .page-body .author-card,
-.page-body [class*="author"],
-article .author-notes,
 .hb-author-card,
 .prose .author-card,
-section[class*="author"],
-.page-body > .container > div:last-child .flex.items-center,
-.publication-authors,
-.project-authors,
-.prose > div:has(a[href*="/authors/"]),
-article > div:has(a[href*="/authors/"]),
-.page-body div:has(> a[href*="/authors/"]),
-.prose div.flex:has(a[href*="/authors/"]),
-div.flex.flex-col:has(a[href*="/authors/"]) {
-  display: none !important;
-}
-
-/* Hide author byline on publication pages - targets the author names after the date */
-article a[href*="/authors/"],
-.page-header a[href*="/authors/"],
-.article-metadata a[href*="/authors/"],
-.article-header a[href*="/authors/"] {
+section[class*="author"]:not(header),
+.prose > div:has(a[href*="/authors/"]):not(:first-of-type),
+article > section:has(a[href*="/authors/"]),
+.page-body > .container > section:has(a[href*="/authors/"]),
+main > div > div:has(> div > a[href*="/authors/"]) {
   display: none !important;
 }
 </style>
