@@ -66,4 +66,17 @@ h2:contains("Professional"),
 .dark .hb-li-icon svg g[fill="#000000"] {
   fill: #ffffff !important;
 }
+
+/* Hide author descriptions at bottom of publication and project pages */
+.page-body .author-card,
+.page-body [class*="author"],
+article .author-notes,
+.hb-author-card,
+.prose .author-card,
+section[class*="author"],
+.page-body > .container > div:last-child .flex.items-center,
+.publication-authors,
+.project-authors {
+  display: none !important;
+}
 </style>
