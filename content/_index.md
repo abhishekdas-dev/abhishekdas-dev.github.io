@@ -105,8 +105,6 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      view: article-grid
+      columns: 3
 ---

@@ -39,13 +39,18 @@ a[title*="WhatsApp"],
   display: none !important;
 }
 
-/* Hide Professional Summary heading */
+/* Hide Professional Summary heading/badge */
 h2:has(+ .prose),
 .biography-text > h2:first-child,
 section h2:contains("Professional Summary"),
 h2.text-2xl:contains("Professional"),
 .resume-biography h2,
-[data-heading="bio"] {
+[data-heading="bio"],
+.hb-section-heading:has(span:contains("Professional")),
+span:contains("Professional Summary"),
+.text-primary-700:contains("Professional"),
+h2:contains("Professional"),
+.font-semibold:contains("Professional Summary") {
   display: none !important;
 }
 </style>
