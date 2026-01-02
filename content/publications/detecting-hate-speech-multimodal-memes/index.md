@@ -1,6 +1,9 @@
 ---
 title: 'Detecting Hate Speech in Multi-modal Memes'
 
+# Hide author profile cards at bottom
+profile: false
+
 # Authors
 authors:
   - me

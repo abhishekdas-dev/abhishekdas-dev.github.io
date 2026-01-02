@@ -1,6 +1,9 @@
 ---
 title: 'Siamese Manhattan LSTM Implementation for Predicting Text Similarity and Grading of Student Test Papers'
 
+# Hide author profile cards at bottom
+profile: false
+
 # Authors
 # If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.

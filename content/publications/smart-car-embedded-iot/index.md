@@ -1,6 +1,9 @@
 ---
 title: 'Smart Car Features Using Embedded Systems and IoT'
 
+# Hide author profile cards at bottom
+profile: false
+
 # Authors
 authors:
   - me
@@ -10,6 +13,7 @@ authors:
   - Ameya Kadam
 
 date: '2018-01-01T00:00:00Z'
+date_format: '2006'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2018-01-01T00:00:00Z'

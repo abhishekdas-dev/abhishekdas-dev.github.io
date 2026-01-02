@@ -1,6 +1,9 @@
 ---
 title: 'Multi-Image Steganography Using Deep Neural Networks'
 
+# Hide author profile cards at bottom
+profile: false
+
 # Authors
 authors:
   - me

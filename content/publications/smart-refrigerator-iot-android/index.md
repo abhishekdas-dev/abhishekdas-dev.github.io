@@ -1,6 +1,9 @@
 ---
 title: 'Smart Refrigerator Using Internet of Things and Android'
 
+# Hide author profile cards at bottom
+profile: false
+
 # Authors
 authors:
   - me

@@ -1,6 +1,9 @@
 ---
 title: 'System and Method for Identifying Products in a Shelf Management System'
 
+# Hide author profile cards at bottom
+profile: false
+
 # Authors
 authors:
   - Marios Savvides
