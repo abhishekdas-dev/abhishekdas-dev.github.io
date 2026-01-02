@@ -12,19 +12,3 @@
   width: 3rem !important;
   height: 3rem !important;
 }
-
-/* Hide author profile sections at bottom of publication/project pages */
-/* Target elements that contain "AUTHORS" text - these are the author card sections */
-.hb-article-author,
-.article-author,
-.author-card-container,
-section:has(> .flex > a[href*="/authors/"]) {
-  display: none !important;
-}
-
-/* Hide any flex container with author links below the main content */
-main article ~ div:has(a[href*="/authors/"]),
-main .prose ~ div:has(a[href*="/authors/"]),
-article + div:has(a[href*="/authors/"]) {
-  display: none !important;
-}

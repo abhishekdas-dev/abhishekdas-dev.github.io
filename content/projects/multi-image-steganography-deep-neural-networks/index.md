@@ -1,5 +1,6 @@
 ---
 title: 'Multi-Image Steganography Using Deep Neural Networks'
+profile: false
 summary: PyTorch, Python, Jupyter Notebook
 tags:
   - Deep Learning

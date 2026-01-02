@@ -1,5 +1,6 @@
 ---
 title: 'Augmented Reality with Planar Homographies'
+profile: false
 summary: Python, NumPy
 tags:
   - Computer Vision

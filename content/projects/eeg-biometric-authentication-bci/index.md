@@ -1,5 +1,6 @@
 ---
 title: 'EEG-Based Biometric Authentication for Brain Computer Interfaces'
+profile: false
 summary: MATLAB
 tags:
   - Machine Learning

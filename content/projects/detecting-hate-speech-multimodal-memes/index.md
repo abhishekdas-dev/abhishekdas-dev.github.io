@@ -1,5 +1,6 @@
 ---
 title: 'Detecting Hate Speech in Multi-modal Memes'
+profile: false
 summary: PyTorch, Python, Jupyter Notebook, EC2
 tags:
   - Deep Learning

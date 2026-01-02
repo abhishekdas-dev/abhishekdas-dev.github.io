@@ -1,5 +1,6 @@
 ---
 title: 'User De-Identification over Speech/Dialogue Exchange'
+profile: false
 summary: PyTorch, Python, Jupyter Notebook, EC2
 tags:
   - Deep Learning

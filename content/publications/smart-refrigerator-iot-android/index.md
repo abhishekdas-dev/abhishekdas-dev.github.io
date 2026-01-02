@@ -23,6 +23,11 @@ publication_types: ['paper-conference']
 publication: Proceedings of DJ Spark 2018. ISBN 978-93-86724-75-5
 publication_short: DJ Spark 2018
 
+# Custom links
+links:
+  - name: arXiv
+    url: https://arxiv.org/abs/2012.10422
+
 abstract: A smart refrigerator system leveraging IoT technology to simplify household tasks. It offers features like real-time inventory tracking, mobile alerts for restocking, and recipe suggestions. The system uses embedded sensors and an Android application for seamless user interaction and monitoring.
 
 # Summary. An optional shortened abstract.

@@ -1,5 +1,6 @@
 ---
 title: 'Photometric Stereo'
+profile: false
 summary: Python, NumPy, Matplotlib, Scikit-image
 tags:
   - Computer Vision

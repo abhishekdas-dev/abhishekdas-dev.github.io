@@ -1,5 +1,6 @@
 ---
 title: 'Smart Car Features using Embedded Systems and IoT'
+profile: false
 summary: Arduino, GSM SIM900A, Neo6m GPS, SW420 Impact sensor, DHT11 Temperature and Humidity sensor, MQ3 Alcohol sensor
 tags:
   - Internet of Things

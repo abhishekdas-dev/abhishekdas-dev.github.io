@@ -1,5 +1,6 @@
 ---
 title: 'Acoustic Classification and Localisation of Sound Sources for Autonomous Vehicles'
+profile: false
 summary: Python, NumPy, scikit-learn
 tags:
   - Machine Learning
