@@ -6,11 +6,11 @@ profile: false
 
 # Authors
 authors:
-  - me
-  - Vivek Dhuri
-  - Aditya Desai
-  - Suyash Ail
-  - Ameya Kadam
+  - A Das
+  - V Dhuri
+  - A Desai
+  - S Ail
+  - A Kadam
 
 date: '2018-01-01T00:00:00Z'
 date_format: '2006'
@@ -33,7 +33,7 @@ links:
 abstract: An IoT-based smart car system that integrates various embedded sensors and microcontrollers to provide intelligent features including obstacle detection, automatic headlight control, alcohol detection for driver safety, and remote monitoring capabilities through mobile applications.
 
 # Summary. An optional shortened abstract.
-summary: An IoT-based smart car system with embedded sensors for obstacle detection, automatic headlight control, and driver safety monitoring.
+summary: D J Strike 2018 (ISBN 978-93-5300-801-7). IoT-based smart car system with embedded sensors for obstacle detection, automatic headlight control, and driver safety monitoring.
 
 tags:
   - IoT

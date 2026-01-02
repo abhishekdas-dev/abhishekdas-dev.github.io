@@ -6,10 +6,10 @@ profile: false
 
 # Authors
 authors:
-  - me
-  - Japsimar Singh Wahi
-  - Mansi Anand
-  - Yugant Rana
+  - A Das
+  - JS Wahi
+  - M Anand
+  - Y Rana
 
 date: '2021-01-02T00:00:00Z'
 

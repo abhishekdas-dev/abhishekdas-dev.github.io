@@ -6,11 +6,11 @@ profile: false
 
 # Authors
 authors:
-  - Marios Savvides
-  - Uzair Ahmed
-  - Sreena Nallamothu
-  - Magesh Kannan
-  - me
+  - M Savvides
+  - U Ahmed
+  - S Nallamothu
+  - M Kannan
+  - A Das
 
 # Author notes (optional)
 author_notes:

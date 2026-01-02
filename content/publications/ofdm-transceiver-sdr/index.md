@@ -5,11 +5,9 @@ title: 'Study of Performance of an OFDM Transceiver Using SDR Platform'
 profile: false
 
 # Authors
-# If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
-  - me
-  - V. Venkataramanan
+  - A Das
+  - V Venkataramanan
 
 # Author notes (optional)
 author_notes:

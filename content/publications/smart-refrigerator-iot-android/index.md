@@ -6,9 +6,9 @@ profile: false
 
 # Authors
 authors:
-  - me
-  - Vivek Dhuri
-  - Ranjushree Pal
+  - A Das
+  - V Dhuri
+  - R Pal
 
 date: '2018-01-01T00:00:00Z'
 date_format: '2006'
@@ -31,7 +31,7 @@ links:
 abstract: A smart refrigerator system leveraging IoT technology to simplify household tasks. It offers features like real-time inventory tracking, mobile alerts for restocking, and recipe suggestions. The system uses embedded sensors and an Android application for seamless user interaction and monitoring.
 
 # Summary. An optional shortened abstract.
-summary: An IoT-based smart refrigerator with real-time inventory tracking, mobile alerts, and recipe suggestions.
+summary: DJ Spark 2018 (ISBN 978-93-86724-75-5). IoT-based smart refrigerator with real-time inventory tracking, mobile alerts, and recipe suggestions.
 
 tags:
   - IoT

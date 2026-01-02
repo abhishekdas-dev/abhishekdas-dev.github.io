@@ -6,9 +6,9 @@ profile: false
 
 # Authors
 authors:
-  - me
-  - Japsimar Singh Wahi
-  - Siyao Li
+  - A Das
+  - JS Wahi
+  - S Li
 
 date: '2022-01-01T00:00:00Z'
 

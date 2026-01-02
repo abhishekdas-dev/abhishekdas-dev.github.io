@@ -5,22 +5,12 @@ title: 'Siamese Manhattan LSTM Implementation for Predicting Text Similarity and
 profile: false
 
 # Authors
-# If you created a profile for a user (e.g. the default `me` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
 authors:
-  - me
-  - Wallace Dalmet
-  - Vivek Dhuri
-  - Moinuddin Khaja
-  - Sunil H. Karamchandani
-
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
-  - 'Equal contribution'
+  - W Dalmet
+  - A Das
+  - V Dhuri
+  - M Khaja
+  - SH Karamchandani
 
 date: '2019-11-17T00:00:00Z'
 
