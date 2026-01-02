@@ -79,3 +79,43 @@ main > div > div:has(> div > a[href*="/authors/"]) {
   display: none !important;
 }
 </style>
+
+<script>
+// Hide author profile sections that contain "AUTHORS" text
+document.addEventListener('DOMContentLoaded', function() {
+  // Use TreeWalker to find all text nodes containing "AUTHORS"
+  const walker = document.createTreeWalker(
+    document.body,
+    NodeFilter.SHOW_TEXT,
+    null
+  );
+  
+  const authorsNodes = [];
+  let node;
+  
+  while (node = walker.nextNode()) {
+    if (node.textContent.trim() === 'AUTHORS') {
+      authorsNodes.push(node);
+    }
+  }
+  
+  // Hide the parent containers of these text nodes
+  authorsNodes.forEach(textNode => {
+    let parent = textNode.parentElement;
+    while (parent && parent !== document.body) {
+      // Find the flex container that holds the author card
+      if (parent.classList.contains('flex') || 
+          parent.querySelector('a[href*="/authors/"]')) {
+        // Make sure it's in the lower part of the page (not the byline)
+        const rect = parent.getBoundingClientRect();
+        const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+        if (rect.top + scrollTop > 800) {
+          parent.style.display = 'none';
+          break;
+        }
+      }
+      parent = parent.parentElement;
+    }
+  });
+});
+</script>
