@@ -84,4 +84,12 @@ article > div:has(a[href*="/authors/"]),
 div.flex.flex-col:has(a[href*="/authors/"]) {
   display: none !important;
 }
+
+/* Hide author byline on publication pages - targets the author names after the date */
+article a[href*="/authors/"],
+.page-header a[href*="/authors/"],
+.article-metadata a[href*="/authors/"],
+.article-header a[href*="/authors/"] {
+  display: none !important;
+}
 </style>
