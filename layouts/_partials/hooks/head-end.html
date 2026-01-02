@@ -78,44 +78,75 @@ article > section:has(a[href*="/authors/"]),
 main > div > div:has(> div > a[href*="/authors/"]) {
   display: none !important;
 }
+
+/* Hide author cards - specific selectors */
+.hb-article-author-card,
+.author-profile,
+.authors-section,
+div[class*="author-card"],
+section.authors {
+  display: none !important;
+}
 </style>
 
 <script>
-// Hide author profile sections that contain "AUTHORS" text
+// Hide author profile sections at bottom of publication/project pages
 document.addEventListener('DOMContentLoaded', function() {
-  // Use TreeWalker to find all text nodes containing "AUTHORS"
-  const walker = document.createTreeWalker(
-    document.body,
-    NodeFilter.SHOW_TEXT,
-    null
-  );
-  
-  const authorsNodes = [];
-  let node;
-  
-  while (node = walker.nextNode()) {
-    if (node.textContent.trim() === 'AUTHORS') {
-      authorsNodes.push(node);
-    }
-  }
-  
-  // Hide the parent containers of these text nodes
-  authorsNodes.forEach(textNode => {
-    let parent = textNode.parentElement;
-    while (parent && parent !== document.body) {
-      // Find the flex container that holds the author card
-      if (parent.classList.contains('flex') || 
-          parent.querySelector('a[href*="/authors/"]')) {
-        // Make sure it's in the lower part of the page (not the byline)
-        const rect = parent.getBoundingClientRect();
-        const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
-        if (rect.top + scrollTop > 800) {
+  setTimeout(function() {
+    // Find all links to /authors/ pages
+    const authorLinks = document.querySelectorAll('a[href*="/authors/"]');
+    
+    authorLinks.forEach(link => {
+      // Skip links in the first 600px (byline area at top)
+      const linkRect = link.getBoundingClientRect();
+      if (linkRect.top < 600) return;
+      
+      // Find the parent container - go up until we find a major container
+      let parent = link.parentElement;
+      for (let i = 0; i < 8; i++) {
+        if (!parent || parent === document.body) break;
+        
+        // Check if this looks like an author card section
+        const hasImage = parent.querySelector('img');
+        const hasParagraph = parent.querySelector('p');
+        const hasAuthorLink = parent.querySelector('a[href*="/authors/"]');
+        
+        // If it's a container with author info, hide it
+        if (hasImage && hasParagraph && hasAuthorLink) {
           parent.style.display = 'none';
           break;
         }
+        
+        // Also check for "AUTHORS" text
+        if (parent.textContent && parent.textContent.includes('AUTHORS')) {
+          const childText = Array.from(parent.childNodes)
+            .filter(n => n.nodeType === 3)
+            .some(n => n.textContent.trim() === 'AUTHORS');
+          if (childText || parent.innerText.startsWith('AUTHORS')) {
+            parent.style.display = 'none';
+            break;
+          }
+        }
+        
+        parent = parent.parentElement;
       }
-      parent = parent.parentElement;
-    }
-  });
+    });
+    
+    // Also find and hide any element that has "AUTHORS" as direct text
+    document.querySelectorAll('*').forEach(el => {
+      const directText = Array.from(el.childNodes)
+        .filter(n => n.nodeType === 3)
+        .map(n => n.textContent.trim())
+        .join('');
+      
+      if (directText === 'AUTHORS') {
+        // Hide the parent flex container
+        let parent = el.parentElement;
+        if (parent) {
+          parent.style.display = 'none';
+        }
+      }
+    });
+  }, 100);
 });
 </script>
