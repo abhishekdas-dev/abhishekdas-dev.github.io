@@ -46,11 +46,6 @@ tags:
 # Display this page in the Featured widget?
 featured: true
 
-# Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    doi: 10.1007/978-981-15-1002-1_60
-
 # Custom links
 links:
   - type: url
