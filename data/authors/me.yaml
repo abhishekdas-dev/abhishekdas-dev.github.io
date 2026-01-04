@@ -157,6 +157,12 @@ languages:
     label: Native
 
 awards:
+  - title: Microsoft Global Hackathon 2025
+    awarder: The Microsoft Garage
+    date: "2025-09-08"
+    summary: Participated in the world's largest private hackathon, demonstrating collaboration, inspiration, and creativity.
+    url: https://www.credly.com/badges/5dfcc194-69cc-4688-bfef-45686cc64060/public_url
+    icon: hero/trophy
   - title: Project Featured in Maharashtra Times for Creativity and Innovation
     awarder: Maharashtra Times
     date: "2018-04-01"
@@ -168,6 +174,18 @@ awards:
     date: "2024-12-05"
     summary: Recognized for providing expert feedback on technical conference proposals in AI, ML, and Data Science.
     url: https://www.credly.com/badges/287c4822-95cd-4dae-abd9-b08375cd43f4
+    icon: hero/trophy
+  - title: Microsoft Global Hackathon 2024
+    awarder: The Microsoft Garage
+    date: "2024-09-06"
+    summary: Participated in the world's largest private hackathon, demonstrating collaboration, inspiration, and creativity.
+    url: https://www.credly.com/badges/aa2bb545-c441-44a0-bd8e-d0bcaf574a2e/public_url
+    icon: hero/trophy
+  - title: Microsoft Global Hackathon 2021
+    awarder: The Microsoft Garage
+    date: "2021-09-02"
+    summary: Participated in the world's largest private hackathon, demonstrating collaboration, inspiration, and creativity.
+    url: https://www.credly.com/badges/727f081d-dab7-46a9-91d4-ea5ba2d5a923/public_url
     icon: hero/trophy
   - title: Machine Learning A-Z Certification
     awarder: Udemy
