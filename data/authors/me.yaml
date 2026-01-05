@@ -50,8 +50,8 @@ education:
   - degree: M.S. in Electrical and Computer Engineering
     institution: Carnegie Mellon University
     icon: orgs/cmu
-    date_start: '2019-08-01'
-    date_end: '2020-12-31'
+    start: 'Aug 2019'
+    end: 'Dec 2020'
     summary: |
       Specialization - Machine Learning
       
@@ -68,8 +68,8 @@ education:
   - degree: B.Eng. in Electronics and Telecommunication Engineering
     institution: University of Mumbai
     icon: orgs/mumbai
-    date_start: '2015-06-01'
-    date_end: '2019-05-31'
+    start: 'Jun 2015'
+    end: 'May 2019'
     summary: |
       Specialization - Signal and Image Processing
 
