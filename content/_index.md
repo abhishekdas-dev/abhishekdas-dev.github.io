@@ -83,7 +83,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: card
+      view: article-grid
       columns: 3
   - block: collection
     content:

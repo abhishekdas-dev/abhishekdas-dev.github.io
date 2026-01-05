@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: tds
+is_owner: false
+name:
+  display: Towards Data Science
+  given: Towards Data Science
+  family: ''
+role: ''
+bio: ''
+avatar:
+  image: media/icons/tds.svg

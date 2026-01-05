@@ -1,0 +1,11 @@
+schema: hugoblox/author/v1
+slug: medium
+is_owner: false
+name:
+  display: Medium
+  given: Medium
+  family: ''
+role: ''
+bio: ''
+avatar:
+  image: media/icons/medium.svg

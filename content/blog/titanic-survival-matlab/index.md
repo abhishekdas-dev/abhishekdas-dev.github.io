@@ -1,6 +1,8 @@
 ---
 title: 'Predict survival on the Titanic challenge in MATLAB'
 summary: Published in Towards Data Science · Jan 2021
+authors:
+  - tds
 tags:
   - TDS
   - Medium
