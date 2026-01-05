@@ -127,26 +127,24 @@ experience:
       Training a Deepfake video detection architecture using CNN and Pulse rate estimation
 
 skills:
-  - name: Programming & ML
+  - name: Expertise
     items:
-      - label: Python
-        level: 5
-      - label: PyTorch
-        level: 5
-      - label: TensorFlow/Keras
-        level: 4
-      - label: scikit-learn
-        level: 5
-  - name: Tools & Platforms
+      - name: Prompt Engineering, Fine-Tuning & Preference Optimization for LLMs
+  - name: Languages
     items:
-      - label: MATLAB
-        level: 5
-      - label: Jupyter
-        level: 5
-      - label: AWS
-        level: 3
-      - label: Arduino
-        level: 4
+      - name: Python
+      - name: SCOPE
+      - name: C#
+      - name: MATLAB
+  - name: Tools
+    items:
+      - name: PyTorch
+      - name: Hugging Face
+      - name: vLLM
+      - name: NumPy
+      - name: Linux
+      - name: ONNX
+      - name: Streamlit
 
 languages:
   - name: English
