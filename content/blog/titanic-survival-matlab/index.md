@@ -1,9 +1,8 @@
 ---
 title: 'Predict survival on the Titanic challenge in MATLAB'
-summary: Published in Medium · Jan 2021
-authors:
-  - me
+summary: Published in Towards Data Science · Jan 2021
 tags:
+  - TDS
   - Medium
   - Machine Learning
   - MATLAB
@@ -24,6 +23,11 @@ image:
   preview_only: false
 
 projects: []
+
+links:
+  - icon: brands/medium
+    name: Read on TDS
+    url: 'https://iamabhishekdas.medium.com/kaggle-predict-survival-on-the-titanic-challenge-in-matlab-56f6ad3bab78'
 
 external_link: 'https://iamabhishekdas.medium.com/kaggle-predict-survival-on-the-titanic-challenge-in-matlab-56f6ad3bab78'
 ---

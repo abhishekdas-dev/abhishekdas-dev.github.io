@@ -1,8 +1,6 @@
 ---
 title: 'How to build a Convolutional Neural Network from scratch using tf.keras for Image Classification'
 summary: Published in Towards Data Science · Jan 2021
-authors:
-  - me
 tags:
   - TDS
   - Image Classification
@@ -24,6 +22,11 @@ image:
   preview_only: false
 
 projects: []
+
+links:
+  - icon: brands/medium
+    name: Read on TDS
+    url: 'https://towardsdatascience.com/how-to-build-a-convolutional-neural-network-from-scratch-using-tf-keras-for-image-classification-ee4482de8453'
 
 external_link: 'https://towardsdatascience.com/how-to-build-a-convolutional-neural-network-from-scratch-using-tf-keras-for-image-classification-ee4482de8453'
 ---

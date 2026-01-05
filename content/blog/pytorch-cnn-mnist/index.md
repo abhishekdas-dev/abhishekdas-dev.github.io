@@ -1,8 +1,6 @@
 ---
 title: 'Pytorch CNN Implementation on MNIST Dataset'
 summary: Published in Kaggle · May 2020
-authors:
-  - me
 tags:
   - Kaggle
   - Image Classification
@@ -23,6 +21,11 @@ image:
   preview_only: false
 
 projects: []
+
+links:
+  - icon: custom/kaggle
+    name: Read on Kaggle
+    url: 'https://www.kaggle.com/iamabhishekdas/pytorch-cnn-implementation-on-mnist-dataset'
 
 external_link: 'https://www.kaggle.com/iamabhishekdas/pytorch-cnn-implementation-on-mnist-dataset'
 ---
