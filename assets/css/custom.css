@@ -15,11 +15,25 @@
 
 /* Allow full author name to show in article cards without truncation */
 .article-metadata a[href*="/authors/"],
-.article-metadata span {
+.article-metadata span,
+.truncate,
+[class*="truncate"],
+.line-clamp-1,
+[class*="line-clamp"] {
   white-space: normal !important;
   overflow: visible !important;
   text-overflow: unset !important;
   max-width: none !important;
+  -webkit-line-clamp: unset !important;
+  display: inline !important;
+}
+
+/* Specifically target author links in blog/writings section */
+#news .article-metadata,
+#news .article-metadata * {
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
 }
 
 /* Hide tags in article-grid cards */
