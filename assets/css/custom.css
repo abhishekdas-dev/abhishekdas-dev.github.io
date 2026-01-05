@@ -12,3 +12,17 @@
   width: 3rem !important;
   height: 3rem !important;
 }
+
+/* Allow full author name to show in article cards without truncation */
+.article-metadata a[href*="/authors/"],
+.article-metadata span {
+  white-space: normal !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
+  max-width: none !important;
+}
+
+/* Hide tags in article-grid cards */
+a[href*="/tags/"] {
+  display: none !important;
+}
