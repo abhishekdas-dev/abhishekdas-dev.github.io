@@ -3,7 +3,8 @@ title: 'How to build a Convolutional Neural Network from scratch using tf.keras 
 authors:
   - tds
 tags:
-  - TDS
+  - Towards Data Science
+  - Medium
   - Image Classification
   - Deep Learning
   - TensorFlow

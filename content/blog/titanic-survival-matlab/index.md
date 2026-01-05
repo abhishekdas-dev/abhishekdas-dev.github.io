@@ -3,7 +3,7 @@ title: 'Predict survival on the Titanic challenge in MATLAB'
 authors:
   - tds
 tags:
-  - TDS
+  - Towards Data Science
   - Medium
   - Machine Learning
   - MATLAB
