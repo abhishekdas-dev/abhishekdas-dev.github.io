@@ -61,7 +61,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Writings
+      title: Selected Writings
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -83,7 +83,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: article-grid
+      view: card
       columns: 3
   - block: collection
     content:
