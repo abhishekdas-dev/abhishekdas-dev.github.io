@@ -32,9 +32,3 @@ links:
 
 external_link: 'https://iamabhishekdas.medium.com/kaggle-predict-survival-on-the-titanic-challenge-in-matlab-56f6ad3bab78'
 ---
-
-This post is published on **Medium**. Click the link above to read the full article.
-
-## Overview
-
-A step-by-step tutorial demonstrating how to solve the classic Kaggle Titanic survival prediction challenge using MATLAB's machine learning capabilities.

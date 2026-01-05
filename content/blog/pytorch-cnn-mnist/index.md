@@ -30,9 +30,3 @@ links:
 
 external_link: 'https://www.kaggle.com/iamabhishekdas/pytorch-cnn-implementation-on-mnist-dataset'
 ---
-
-This post is published on **Kaggle**. Click the link above to read the full notebook.
-
-## Overview
-
-A basic Convolutional Neural Network baseline implementation using PyTorch for the Kaggle Digit Recognizer Competition, demonstrating how to classify handwritten digits from the MNIST dataset.

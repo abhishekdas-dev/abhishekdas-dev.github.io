@@ -31,9 +31,3 @@ links:
 
 external_link: 'https://towardsdatascience.com/how-to-build-a-convolutional-neural-network-from-scratch-using-tf-keras-for-image-classification-ee4482de8453'
 ---
-
-This post is published on **Towards Data Science**. Click the link above to read the full article.
-
-## Overview
-
-A comprehensive step-by-step tutorial on building a Convolutional Neural Network from scratch using TensorFlow's Keras API for image classification tasks.
