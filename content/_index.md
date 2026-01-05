@@ -20,7 +20,7 @@ sections:
         text: Download CV
         url: uploads/resume.pdf
       headings:
-        about: ''
+        about: 'About'
         education: ''
         interests: ''
         bio: ''
@@ -38,18 +38,6 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        I'm a Senior Applied Scientist at Microsoft, specializing in Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision. My work focuses on developing innovative AI solutions that solve real-world problems at scale.
-
-        With a Master's degree from Carnegie Mellon University and extensive research experience, I've worked on diverse projects ranging from multimodal learning and NLP to IoT systems and computer vision applications.
-
-        I'm passionate about pushing the boundaries of AI and always looking for exciting collaborations. Feel free to reach out! 😃
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:

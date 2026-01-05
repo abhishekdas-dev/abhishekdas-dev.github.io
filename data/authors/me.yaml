@@ -14,9 +14,9 @@ status:
   icon: "🚀"
 role: Senior Applied Scientist
 bio: |
-  I am passionate about solving challenging problems and creating innovations that could serve mankind to make its life easier and more fulfilling. My research interest centers on the multimodal aspects of Machine Learning, where I explore the intersection of vision and language to push the boundaries of neural network capabilities and their real-world impact.
+  I'm a Senior Applied Scientist at Microsoft, building multimodal query recommendation systems for Bing Image Search. I work at the intersection of computer vision and language, turning modern ML into reliable, high-impact product experiences.
   
-  Currently, I am developing state-of-the-art Query Recommendations Systems for Microsoft Bing Image Search.
+  I'm interested in VLMs, multimodal retrieval, and recommender systems. If you're building in multimodal AI, I'm happy to chat - especially around 0→1 prototypes and productionizing models.
 
 affiliations:
   - name: Microsoft
