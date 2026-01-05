@@ -2,10 +2,8 @@ schema: hugoblox/author/v1
 slug: tds
 is_owner: false
 name:
-  display: Towards Data Science
-  given: Towards Data Science
+  display: Published in Towards Data Science
+  given: Published in Towards Data Science
   family: ''
 role: ''
 bio: ''
-avatar:
-  image: media/icons/tds.svg

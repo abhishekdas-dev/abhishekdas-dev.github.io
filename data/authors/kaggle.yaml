@@ -2,10 +2,8 @@ schema: hugoblox/author/v1
 slug: kaggle
 is_owner: false
 name:
-  display: Kaggle
-  given: Kaggle
+  display: Kaggle Notebook
+  given: Kaggle Notebook
   family: ''
 role: ''
 bio: ''
-avatar:
-  image: media/icons/kaggle.svg

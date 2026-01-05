@@ -1,6 +1,5 @@
 ---
 title: 'Pytorch CNN Implementation on MNIST Dataset'
-summary: Kaggle Notebook · May 2020
 authors:
   - kaggle
 tags:
