@@ -6,9 +6,9 @@ profile: false
 
 # Authors
 authors:
-  - A Das
-  - V Dhuri
-  - R Pal
+  - A. Das
+  - V. Dhuri
+  - R. Pal
 
 date: '2018-01-01T00:00:00Z'
 date_format: '2006'

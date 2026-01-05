@@ -6,11 +6,11 @@ profile: false
 
 # Authors
 authors:
-  - W Dalmet
-  - A Das
-  - V Dhuri
-  - M Khaja
-  - SH Karamchandani
+  - W. Dalmet
+  - A. Das
+  - V. Dhuri
+  - M. Khaja
+  - S. H. Karamchandani
 
 date: '2019-11-17T00:00:00Z'
 

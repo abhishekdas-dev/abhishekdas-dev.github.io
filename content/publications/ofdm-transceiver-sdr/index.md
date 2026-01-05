@@ -6,8 +6,8 @@ profile: false
 
 # Authors
 authors:
-  - A Das
-  - V Venkataramanan
+  - A. Das
+  - V. Venkataramanan
 
 date: '2019-11-17T00:00:00Z'
 
