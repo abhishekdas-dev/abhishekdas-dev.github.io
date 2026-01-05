@@ -6,12 +6,7 @@ tags:
   - AI/ML
   - Reviewer
 date: '2024-12-05T00:00:00Z'
-
-links:
-  - icon: link
-    icon_pack: fas
-    name: Verify
-    url: https://www.credly.com/badges/287c4822-95cd-4dae-abd9-b08375cd43f4
+external_link: 'https://www.credly.com/badges/287c4822-95cd-4dae-abd9-b08375cd43f4'
 
 image:
   caption: 'MLADS+RAI Conference Proposal Reviewer'

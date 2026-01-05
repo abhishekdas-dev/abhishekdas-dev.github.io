@@ -5,12 +5,7 @@ tags:
   - Microsoft
   - Hackathon
 date: '2024-09-06T00:00:00Z'
-
-links:
-  - icon: link
-    icon_pack: fas
-    name: Verify
-    url: https://www.credly.com/badges/aa2bb545-c441-44a0-bd8e-d0bcaf574a2e/public_url
+external_link: 'https://www.credly.com/badges/aa2bb545-c441-44a0-bd8e-d0bcaf574a2e/public_url'
 
 image:
   caption: 'Microsoft Global Hackathon 2024'
