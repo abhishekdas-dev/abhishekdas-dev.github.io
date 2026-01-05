@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: Featured Work (Publications, Patents & Writing)
       filters:
         folders:
           - publications
@@ -49,17 +49,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Publications
-      text: ''
-      count: 0
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
   - block: collection
     id: talks
     content:
@@ -96,4 +85,15 @@ sections:
       # Choose a layout view
       view: article-grid
       columns: 3
+  - block: collection
+    content:
+      title: All Publications, Patents & Writing
+      text: ''
+      count: 0
+      filters:
+        folders:
+          - publications
+        exclude_featured: false
+    design:
+      view: citation
 ---
