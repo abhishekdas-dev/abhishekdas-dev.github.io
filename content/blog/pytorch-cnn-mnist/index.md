@@ -1,13 +1,13 @@
 ---
 title: 'Pytorch CNN Implementation on MNIST Dataset'
-summary: A basic Convolutional Neural Network baseline using PyTorch for the Kaggle Digit Recognizer Competition
+summary: Published in Kaggle · May 2020
 authors:
   - me
 tags:
+  - Kaggle
   - Image Classification
   - Deep Learning
   - PyTorch
-  - Kaggle
 categories:
   - Image Classification
 date: '2020-05-21T00:00:00Z'

@@ -41,7 +41,7 @@ sections:
   - block: collection
     id: papers
     content:
-      title: Featured Work (Publications, Patents & Writing)
+      title: Featured Work (Publications & Patents)
       filters:
         folders:
           - publications
@@ -61,7 +61,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Writings
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

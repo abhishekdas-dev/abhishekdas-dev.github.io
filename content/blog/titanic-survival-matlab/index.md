@@ -1,9 +1,10 @@
 ---
 title: 'Predict survival on the Titanic challenge in MATLAB'
-summary: A step-by-step tutorial to solve the Titanic challenge using MATLAB | Published in Towards Data Science
+summary: Published in Medium · Jan 2021
 authors:
   - me
 tags:
+  - Medium
   - Machine Learning
   - MATLAB
   - Kaggle

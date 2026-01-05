@@ -1,9 +1,10 @@
 ---
 title: 'How to build a Convolutional Neural Network from scratch using tf.keras for Image Classification'
-summary: A hands-on tutorial for image classification in Keras | Published in Towards Data Science
+summary: Published in Towards Data Science · Jan 2021
 authors:
   - me
 tags:
+  - TDS
   - Image Classification
   - Deep Learning
   - TensorFlow
