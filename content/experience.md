@@ -18,8 +18,13 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  - block: resume-skills
+  - block: markdown
     content:
-      title: Skills & Hobbies
-      username: me
+      title: Skills
+      text: |
+        **Expertise:** Prompt Engineering, Fine-Tuning & Preference Optimization for LLMs
+
+        **Languages:** Python, SCOPE, C#, MATLAB
+
+        **Tools:** PyTorch, Hugging Face, vLLM, NumPy, Linux, ONNX, Streamlit
 ---

@@ -23,5 +23,5 @@ main:
     url: projects/
     weight: 30
   - name: Honors
-    url: courses/
+    url: honor/
     weight: 40
