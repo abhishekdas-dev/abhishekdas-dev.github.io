@@ -21,7 +21,7 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: Proceedings of DJ Spark 2018. ISBN 978-93-86724-75-5
-publication_short: DJ Spark 2018
+publication_short: Proceedings of DJ Spark 2018. ISBN 978-93-86724-75-5
 
 # Custom links
 links:

@@ -22,8 +22,8 @@ publishDate: '2018-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: D J Strike 2018 (Proceedings). ISBN 978-93-5300-801-7
-publication_short: D J Strike 2018
+publication: Proceedings of DJ Strike 2018. ISBN 978-93-5300-801-7
+publication_short: Proceedings of DJ Strike 2018. ISBN 978-93-5300-801-7
 
 # Custom links
 links:
@@ -33,7 +33,7 @@ links:
 abstract: An IoT-based smart car system that integrates various embedded sensors and microcontrollers to provide intelligent features including obstacle detection, automatic headlight control, alcohol detection for driver safety, and remote monitoring capabilities through mobile applications.
 
 # Summary. An optional shortened abstract.
-summary: D J Strike 2018 (ISBN 978-93-5300-801-7). IoT-based smart car system with embedded sensors for obstacle detection, automatic headlight control, and driver safety monitoring.
+summary: DJ Strike 2018 (ISBN 978-93-5300-801-7). IoT-based smart car system with embedded sensors for obstacle detection, automatic headlight control, and driver safety monitoring.
 
 tags:
   - IoT
