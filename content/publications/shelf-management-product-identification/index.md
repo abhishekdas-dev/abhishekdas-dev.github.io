@@ -12,14 +12,6 @@ authors:
   - M Kannan
   - A Das
 
-# Author notes (optional)
-author_notes:
-  - ''
-  - ''
-  - ''
-  - ''
-  - ''
-
 date: '2022-02-17T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
