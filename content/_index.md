@@ -86,6 +86,7 @@ sections:
       view: article-grid
       columns: 3
   - block: collection
+    id: all-publications
     content:
       title: All Publications, Patents & Writing
       text: ''
