@@ -40,3 +40,10 @@
 a[href*="/tags/"] {
   display: none !important;
 }
+
+/* Preserve author name capitalization (override theme lowercase) */
+.article-metadata a[href*="/authors/"],
+.page-author a,
+[class*="author"] a {
+  text-transform: none !important;
+}
