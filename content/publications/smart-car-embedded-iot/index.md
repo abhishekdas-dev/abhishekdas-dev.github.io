@@ -6,11 +6,11 @@ profile: false
 
 # Authors
 authors:
-  - A. Das
-  - V. Dhuri
-  - A. Desai
-  - S. Ail
-  - A. Kadam
+  - a-das
+  - v-dhuri
+  - a-desai
+  - s-ail
+  - a-kadam
 
 date: '2018-01-01T00:00:00Z'
 date_format: '2006'

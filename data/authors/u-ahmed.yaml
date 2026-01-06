@@ -1,0 +1,7 @@
+schema: hugoblox/author/v1
+slug: u-ahmed
+is_owner: false
+name:
+  display: U. Ahmed
+  given: U.
+  family: Ahmed

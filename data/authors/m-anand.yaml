@@ -1,0 +1,7 @@
+schema: hugoblox/author/v1
+slug: m-anand
+is_owner: false
+name:
+  display: M. Anand
+  given: M.
+  family: Anand

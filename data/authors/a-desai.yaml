@@ -1,0 +1,7 @@
+schema: hugoblox/author/v1
+slug: a-desai
+is_owner: false
+name:
+  display: A. Desai
+  given: A.
+  family: Desai

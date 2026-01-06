@@ -1,0 +1,7 @@
+schema: hugoblox/author/v1
+slug: s-ail
+is_owner: false
+name:
+  display: S. Ail
+  given: S.
+  family: Ail

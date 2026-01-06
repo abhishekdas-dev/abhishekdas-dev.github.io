@@ -1,0 +1,7 @@
+schema: hugoblox/author/v1
+slug: a-das
+is_owner: false
+name:
+  display: A. Das
+  given: Abhishek
+  family: Das

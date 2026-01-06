@@ -1,0 +1,7 @@
+schema: hugoblox/author/v1
+slug: s-li
+is_owner: false
+name:
+  display: S. Li
+  given: S.
+  family: Li

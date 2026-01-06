@@ -6,9 +6,9 @@ profile: false
 
 # Authors
 authors:
-  - A. Das
-  - J. S. Wahi
-  - S. Li
+  - a-das
+  - j-s-wahi
+  - s-li
 
 date: '2022-01-01T00:00:00Z'
 

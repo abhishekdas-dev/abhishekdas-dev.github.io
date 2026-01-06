@@ -1,0 +1,7 @@
+schema: hugoblox/author/v1
+slug: a-kadam
+is_owner: false
+name:
+  display: A. Kadam
+  given: A.
+  family: Kadam

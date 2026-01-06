@@ -6,10 +6,10 @@ profile: false
 
 # Authors
 authors:
-  - A. Das
-  - J. S. Wahi
-  - M. Anand
-  - Y. Rana
+  - a-das
+  - j-s-wahi
+  - m-anand
+  - y-rana
 
 date: '2021-01-02T00:00:00Z'
 

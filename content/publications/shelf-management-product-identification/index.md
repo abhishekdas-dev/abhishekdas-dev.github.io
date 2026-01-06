@@ -6,11 +6,11 @@ profile: false
 
 # Authors
 authors:
-  - M. Savvides
-  - U. Ahmed
-  - S. Nallamothu
-  - M. Kannan
-  - A. Das
+  - m-savvides
+  - u-ahmed
+  - s-nallamothu
+  - m-kannan
+  - a-das
 
 date: '2022-02-17T00:00:00Z'
 

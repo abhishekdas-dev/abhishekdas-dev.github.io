@@ -1,0 +1,7 @@
+schema: hugoblox/author/v1
+slug: r-pal
+is_owner: false
+name:
+  display: R. Pal
+  given: R.
+  family: Pal
