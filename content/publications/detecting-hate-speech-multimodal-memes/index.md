@@ -6,7 +6,7 @@ profile: false
 
 # Authors
 authors:
-  - a-das
+  - me
   - j-s-wahi
   - s-li
 

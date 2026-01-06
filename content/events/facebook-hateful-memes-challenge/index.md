@@ -18,7 +18,7 @@ publishDate: '2017-01-01T00:00:00Z'
 
 authors:
   - me
-  - Japsimar Singh Wahi
+  - japsimar-singh-wahi
 
 tags:
   - Deep Learning
