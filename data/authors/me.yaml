@@ -81,6 +81,8 @@ experience:
     start: 2025-09-01
     summary: |
       - Designed and productionized an ultra–low-latency vision–language model (VLM) powering multimodal autosuggest in Bing Visual Search, achieving sub-100 ms p95 latency through layer pruning and inference optimizations.
+      - Led end-to-end delivery of VLM-powered ads query generation and multi-armed bandit ranking using Thompson Sampling for Bing Image Search, unlocking ~$10M in estimated annual revenue and increasing Text Ads clicks by 2.2% and Product Ads clicks by 9.4% per user.
+      - Developed and shipped online ANN-based recall for ads query selection, generating and publishing a billion-scale query index and integrating the recall path into production serving, driving ~$2M in estimated annual revenue.
       - Lead technical direction for new multimodal and recommendation features across Bing Visual Search and Related Searches, partnering with engineering and product to align model capabilities with business goals.
   - role: Applied Scientist 2
     org: Microsoft
