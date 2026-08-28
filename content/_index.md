@@ -38,6 +38,12 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: markdown
+    id: citation-metrics
+    content:
+      title: ''
+      text: |
+        [![Google Scholar Citations](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fabhishekdas-dev%2Fabhishekdas-dev.github.io%2Fmain%2Fscholar.json&query=%24.citations&label=Citations&color=1a73e8&logo=googlescholar&logoColor=white&style=flat-square&cacheSeconds=1800)](https://scholar.google.com/citations?user=e3bDokMAAAAJ&hl=en) [![h-index](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fabhishekdas-dev%2Fabhishekdas-dev.github.io%2Fmain%2Fscholar.json&query=%24.hindex&label=h-index&color=1a73e8&logo=googlescholar&logoColor=white&style=flat-square&cacheSeconds=1800)](https://scholar.google.com/citations?user=e3bDokMAAAAJ&hl=en)
   - block: collection
     id: papers
     content:
