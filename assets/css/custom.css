@@ -47,30 +47,3 @@ a[href*="/tags/"] {
 [class*="author"] a {
   text-transform: none !important;
 }
-
-/* Google Scholar citation badges under the All Publications heading */
-#all-publications a[href*="scholar.google.com"] {
-  display: inline-block !important;
-  margin: 0 0.35rem !important;
-  vertical-align: middle;
-}
-#all-publications a[href*="scholar.google.com"] figure {
-  display: inline-block !important;
-  margin: 0 !important;
-}
-#all-publications a[href*="scholar.google.com"] figure > div {
-  display: inline-block !important;
-  width: auto !important;
-}
-#all-publications a[href*="scholar.google.com"] figure .w-full {
-  width: auto !important;
-}
-#all-publications a[href*="scholar.google.com"] img {
-  display: inline-block !important;
-  margin: 0 !important;
-}
-/* Center the badge line under the heading, with a little breathing room */
-#all-publications p:has(> a[href*="scholar.google.com"]) {
-  text-align: center;
-  margin: 0.25rem 0 1.5rem;
-}
