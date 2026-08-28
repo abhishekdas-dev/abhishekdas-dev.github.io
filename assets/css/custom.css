@@ -48,32 +48,29 @@ a[href*="/tags/"] {
   text-transform: none !important;
 }
 
-/* Google Scholar citation badges: lay out side by side, centered */
-#citation-metrics .prose {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.75rem;
-  align-items: center;
-  justify-content: center;
-}
-#citation-metrics .prose > a {
-  margin: 0 !important;
-}
-#citation-metrics figure {
-  margin: 0 !important;
+/* Google Scholar citation badges under the All Publications heading */
+#all-publications a[href*="scholar.google.com"] {
   display: inline-block !important;
+  margin: 0 0.35rem !important;
+  vertical-align: middle;
 }
-#citation-metrics figure > div {
+#all-publications a[href*="scholar.google.com"] figure {
+  display: inline-block !important;
+  margin: 0 !important;
+}
+#all-publications a[href*="scholar.google.com"] figure > div {
   display: inline-block !important;
   width: auto !important;
 }
-#citation-metrics figure .w-full {
+#all-publications a[href*="scholar.google.com"] figure .w-full {
   width: auto !important;
 }
-#citation-metrics img {
+#all-publications a[href*="scholar.google.com"] img {
+  display: inline-block !important;
   margin: 0 !important;
 }
-/* Hide the empty markdown-block title above the badges */
-#citation-metrics .mb-6:empty {
-  display: none !important;
+/* Center the badge line under the heading, with a little breathing room */
+#all-publications p:has(> a[href*="scholar.google.com"]) {
+  text-align: center;
+  margin: 0.25rem 0 1.5rem;
 }
