@@ -55,3 +55,7 @@ a[href*="/tags/"] {
 #all-publications .max-w-prose > p {
   display: none !important;
 }
+/* Pull the publication list up closer to the citation badges */
+#all-publications > div:last-child > :first-child {
+  margin-top: 0.75rem !important;
+}
