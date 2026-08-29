@@ -47,3 +47,11 @@ a[href*="/tags/"] {
 [class*="author"] a {
   text-transform: none !important;
 }
+
+/* Tighten spacing under the All Publications heading (title -> badges -> list) */
+#all-publications .max-w-prose > .mb-6 {
+  margin-bottom: 0 !important;
+}
+#all-publications .max-w-prose > p {
+  display: none !important;
+}
